@@ -31,6 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="FusionEKF.cpp" />
+		<Unit filename="FusionEKF.h" />
+		<Unit filename="ground_truth_package.h" />
+		<Unit filename="kalman_filter.cpp" />
+		<Unit filename="kalman_filter.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="measurement_package.h" />
+		<Unit filename="tools.cpp" />
+		<Unit filename="tools.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
