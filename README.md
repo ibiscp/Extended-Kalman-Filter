@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Output
 
-<p align="center"><img src="Docs/Output.png"/></p>
+<p align="center"><img src="Docs/Output.PNG"/></p>
 
 RMSE Table
 
