@@ -1,1 +1,2 @@
-* linguist-language=C++
+*.ipynb linguist-language=C++
+*.py linguist-language=C++
