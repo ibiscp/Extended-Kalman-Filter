@@ -5,16 +5,24 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Output
 
-<p align="center"><img src="Docs/Output.PNG"/></p>
+<p align="center">**RMSE Table**</p>
 
-RMSE Table
+<center>
 
-|            | Output 1   |
-|------------|:----------:|
-| position x |  0.0651648 |
-| position y |  0.0605379 |
-| speed x    |  0.533212  |
-| speed y    |  0.544193  |
+|            | Output 1   | Output 2   |
+|------------|:----------:|:----------:|
+| position x |  0.0651648 |  0.183491  |
+| position y |  0.0605379 |  0.190323  |
+| speed x    |  0.533212  |  0.500239  |
+| speed y    |  0.544193  |  0.802727  |
+
+</center>
+
+<p align="center">**Output 1**</p>
+<p align="center"><img src="Docs/Output-1.PNG"/></p>
+
+<p align="center">**Output 2**</p>
+<p align="center"><img src="Docs/Output-2.PNG"/></p>
 
 ## Dependencies
 
