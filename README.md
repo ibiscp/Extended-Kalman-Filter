@@ -3,6 +3,19 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+## Output
+
+<p align="center"><img src="Docs/Output.png"/></p>
+
+RMSE Table
+
+|            | Output 1   |
+|------------|:----------:|
+| position x |  0.0651648 |
+| position y |  0.0605379 |
+| speed x    |  0.533212  |
+| speed y    |  0.544193  |
+
 ## Dependencies
 
 * cmake >= 3.5
@@ -24,7 +37,7 @@ Self-Driving Car Engineer Nanodegree Program
    * On windows, you may need to run: `cmake .. -G "Unix Makefiles" && make`
 4. Run it: `./ExtendedKF path/to/input.txt path/to/output.txt`. You can find
    some sample inputs in 'data/'.
-    - eg. `./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt output.txt`
+    - eg. `./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt ./output.txt`
 
 ## Editor Settings
 
